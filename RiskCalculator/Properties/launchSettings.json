@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RiskCalculator": {
+      "commandName": "Project",
+      "commandLineArgs": "GBP GBPUSD 30 1000"
+    }
+  }
+}
