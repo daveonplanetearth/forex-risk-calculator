@@ -6,7 +6,6 @@
 
 name: my-first-agent
 description: This is my first github copilot agent
-
 ---
 
 # My Agent
